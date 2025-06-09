@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer with a focus
 - 💻 Proficient in **Frontend Development** (React.js, Tailwind CSS, HTML5, CSS3).
 - 🔧 Skilled in **Backend Development** (Node.js, Express.js, MongoDB).
 - 🚀 Passionate about **building user-friendly, scalable, and efficient web applications**.
-- 🎯 Currently learning **Microservices Architecture** with **Node.js** and **Express.js**.
 - 👨‍💻 Always exploring new technologies and improving my skills in **Web Development**.
 
 ## Skills
