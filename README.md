@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a dedicated **Full-Stack Developer** with hand
 * **Frontend**: React.js, Next.js, Tailwind CSS, Figma
 * **Backend**: Node.js, Express.js, NestJS, Prisma
 * **Databases**: PostgreSQL, MongoDB
-* **Tools & Platforms**: Git, GitHub, Vercel, postman 
+* **Tools & Platforms**: Git, GitHub, Vercel, postman, WordPress
 
 ## 🌐 Portfolio
 
