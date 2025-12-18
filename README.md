@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a dedicated **Full-Stack Developer** with hand
 
 ## 🌐 Portfolio
 
-Check out my work: [ashenafimekit.vercel.app](https://ashenafimekit.vercel.app)
+Check out my work: [ashenafi-mekit.vercel.app](https://ashenafi-mekit.vercel.app/)
 
 ## 📬 Contact Me
 
